@@ -60,6 +60,11 @@ public class LoginPage extends BaseClass{
 		return val;
 	}
 	
+	public String getUsernameText() {
+		String val = lnkForgotYourPassword.getText();
+		return val;
+	}
+	
 	
 
 }
