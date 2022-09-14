@@ -1,0 +1,44 @@
+[INFO ] 13-09-2022 08:57:25.705 TC001_LoginTest - Chrome Browser is launched successfully
+[INFO ] 13-09-2022 08:57:28.688 TC001_LoginTest - Orange HRM application is launched
+[INFO ] 13-09-2022 08:57:32.362 TC001_LoginTest - User has logged in successfully
+[INFO ] 13-09-2022 08:57:33.010 TC001_LoginTest - Orange HRM application is closed
+[INFO ] 13-09-2022 09:01:45.812 TC001_LoginTest - Chrome Browser is launched successfully
+[INFO ] 13-09-2022 09:01:48.833 TC001_LoginTest - Orange HRM application is launched
+[INFO ] 13-09-2022 09:01:52.480 TC001_LoginTest - User has logged in successfully
+[INFO ] 13-09-2022 09:01:53.180 TC001_LoginTest - Orange HRM application is closed
+[INFO ] 13-09-2022 09:01:54.511 TC002_CheckForgotYourPasswordText - Chrome Browser is launched successfully
+[INFO ] 13-09-2022 09:01:57.599 TC002_CheckForgotYourPasswordText - Orange HRM application is launched
+[INFO ] 13-09-2022 09:01:57.994 TC002_CheckForgotYourPasswordText - Forgot your password? element is existing
+[INFO ] 13-09-2022 09:01:58.653 TC002_CheckForgotYourPasswordText - Orange HRM application is closed
+[INFO ] 13-09-2022 09:06:31.791 TC001_LoginTest - Chrome Browser is launched successfully
+[INFO ] 13-09-2022 09:06:34.407 TC001_LoginTest - Orange HRM application is launched
+[INFO ] 13-09-2022 09:06:38.277 TC001_LoginTest - User has logged in successfully
+[INFO ] 13-09-2022 09:06:38.975 TC001_LoginTest - Orange HRM application is closed
+[INFO ] 13-09-2022 09:06:40.134 TC002_CheckForgotYourPasswordText - Chrome Browser is launched successfully
+[INFO ] 13-09-2022 09:06:42.728 TC002_CheckForgotYourPasswordText - Orange HRM application is launched
+[INFO ] 13-09-2022 09:06:43.108 TC002_CheckForgotYourPasswordText - Forgot your password? element is existing
+[INFO ] 13-09-2022 09:06:43.768 TC002_CheckForgotYourPasswordText - Orange HRM application is closed
+[INFO ] 13-09-2022 09:09:36.029 TC001_LoginTest - Edge Browser is launched successfully
+[INFO ] 13-09-2022 09:09:39.234 TC001_LoginTest - Orange HRM application is launched
+[INFO ] 13-09-2022 09:09:42.935 TC001_LoginTest - User has logged in successfully
+[INFO ] 13-09-2022 09:09:43.723 TC001_LoginTest - Orange HRM application is closed
+[INFO ] 13-09-2022 09:09:44.991 TC002_CheckForgotYourPasswordText - Edge Browser is launched successfully
+[INFO ] 13-09-2022 09:09:47.809 TC002_CheckForgotYourPasswordText - Orange HRM application is launched
+[INFO ] 13-09-2022 09:09:48.211 TC002_CheckForgotYourPasswordText - Forgot your password? element is existing
+[INFO ] 13-09-2022 09:09:48.964 TC002_CheckForgotYourPasswordText - Orange HRM application is closed
+[INFO ] 13-09-2022 09:14:57.861 TC001_LoginTest - Edge Browser is launched successfully
+[INFO ] 13-09-2022 09:15:01.471 TC001_LoginTest - Orange HRM application is launched
+[INFO ] 13-09-2022 09:15:04.900 TC001_LoginTest - User has logged in successfully
+[INFO ] 13-09-2022 09:15:05.953 TC001_LoginTest - Orange HRM application is closed
+[INFO ] 13-09-2022 09:15:07.340 TC002_CheckForgotYourPasswordText - Edge Browser is launched successfully
+[INFO ] 13-09-2022 09:15:10.031 TC002_CheckForgotYourPasswordText - Orange HRM application is launched
+[INFO ] 13-09-2022 09:15:10.429 TC002_CheckForgotYourPasswordText - Forgot your password? element is existing
+[INFO ] 13-09-2022 09:15:11.190 TC002_CheckForgotYourPasswordText - Orange HRM application is closed
+[INFO ] 13-09-2022 09:18:25.589 TC001_LoginTest - Edge Browser is launched successfully
+[INFO ] 13-09-2022 09:18:28.303 TC001_LoginTest - Orange HRM application is launched
+[INFO ] 13-09-2022 09:18:31.329 TC001_LoginTest - User has logged in successfully
+[INFO ] 13-09-2022 09:18:32.077 TC001_LoginTest - Orange HRM application is closed
+[INFO ] 13-09-2022 09:18:33.357 TC002_CheckForgotYourPasswordText - Edge Browser is launched successfully
+[INFO ] 13-09-2022 09:18:36.305 TC002_CheckForgotYourPasswordText - Orange HRM application is launched
+[INFO ] 13-09-2022 09:18:36.683 TC002_CheckForgotYourPasswordText - Forgot your password? element is existing
+[INFO ] 13-09-2022 09:18:37.463 TC002_CheckForgotYourPasswordText - Orange HRM application is closed
